@@ -1,3 +1,6 @@
+#Parse file that has numeric numbers drawn out using _ and |
+#Each number is composed of 3 characters x 3 lines 
+#sample file can be found at test1.txt
 class ParseFile
 
   def open_file
