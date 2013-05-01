@@ -1,0 +1,71 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2E43FA2F15D32FEB00070E70 /* test1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test1.txt; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2E43FA3015D32FF800070E70 /* File.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = File.rb; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2E43FA2515D32F0000070E70 = {
+			isa = PBXGroup;
+			children = (
+				2E43FA3015D32FF800070E70 /* File.rb */,
+				2E43FA2F15D32FEB00070E70 /* test1.txt */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2E43FA2715D32F0000070E70 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 2E43FA2A15D32F0000070E70 /* Build configuration list for PBXProject "ruby" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2E43FA2515D32F0000070E70;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2E43FA2C15D32F0000070E70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2E43FA2D15D32F0000070E70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2E43FA2A15D32F0000070E70 /* Build configuration list for PBXProject "ruby" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E43FA2C15D32F0000070E70 /* Debug */,
+				2E43FA2D15D32F0000070E70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2E43FA2715D32F0000070E70 /* Project object */;
+}
